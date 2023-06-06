@@ -6,7 +6,7 @@
 
   <groupId>com.akbarcompany</groupId>
   <artifactId>akbar-company</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <packaging>war</packaging>
 
   <name>akbar-company Maven Webapp</name>
